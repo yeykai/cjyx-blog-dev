@@ -4,6 +4,7 @@ import com.google.common.collect.Maps;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.servlet.ModelAndView;
 
 import java.util.Map;
 
@@ -33,9 +34,10 @@ public class HelloController {
 
     @RequestMapping("/hello.do")
 
-    public String HelloWorld(){
+    public ModelAndView HelloWorld(){
 
-
-        return "html/index";
+      ModelAndView modelAndView=new ModelAndView();
+      modelAndView.setViewName("html/index");
+        return modelAndView;
     }
 }

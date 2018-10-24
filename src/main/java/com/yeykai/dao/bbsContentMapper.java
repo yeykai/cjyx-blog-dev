@@ -1,17 +1,17 @@
 package com.yeykai.dao;
 
-import com.yeykai.bean.bbsContent;
+import com.yeykai.bean.Bbscontent;
 
-public interface bbsContentMapper {
+public interface BbscontentMapper {
     int deleteByPrimaryKey(String id);
 
-    int insert(bbsContent record);
+    int insert(Bbscontent record);
 
-    int insertSelective(bbsContent record);
+    int insertSelective(Bbscontent record);
 
-    bbsContent selectByPrimaryKey(String id);
+    Bbscontent selectByPrimaryKey(String id);
 
-    int updateByPrimaryKeySelective(bbsContent record);
+    int updateByPrimaryKeySelective(Bbscontent record);
 
-    int updateByPrimaryKey(bbsContent record);
+    int updateByPrimaryKey(Bbscontent record);
 }

@@ -64,8 +64,8 @@
       #{gender,jdbcType=VARCHAR}, #{faceImg,jdbcType=VARCHAR}, #{nickname,jdbcType=VARCHAR}, 
       #{location,jdbcType=VARCHAR}, #{signature,jdbcType=VARCHAR}, #{mail,jdbcType=VARCHAR}, 
       #{question,jdbcType=VARCHAR}, #{answer,jdbcType=VARCHAR}, #{level,jdbcType=VARCHAR}, 
-      #{identity,jdbcType=VARCHAR}, #{coin,jdbcType=VARCHAR}, #{createTime,jdbcType=TIMESTAMP}, 
-      #{updateTime,jdbcType=TIMESTAMP})
+      #{identity,jdbcType=VARCHAR}, #{coin,jdbcType=VARCHAR}, now(),
+    now())
   </insert>
   <insert id="insertSelective" parameterType="com.yeykai.bean.Users">
     <!--
@@ -167,10 +167,10 @@
         #{coin,jdbcType=VARCHAR},
       </if>
       <if test="createTime != null">
-        #{createTime,jdbcType=TIMESTAMP},
+        now(),
       </if>
       <if test="updateTime != null">
-        #{updateTime,jdbcType=TIMESTAMP},
+        now(),
       </if>
     </trim>
   </insert>
@@ -224,7 +224,7 @@
         create_time = #{createTime,jdbcType=TIMESTAMP},
       </if>
       <if test="updateTime != null">
-        update_time = #{updateTime,jdbcType=TIMESTAMP},
+        update_time = now(),
       </if>
     </set>
     where Id = #{id,jdbcType=VARCHAR}
@@ -249,7 +249,15 @@
       identity = #{identity,jdbcType=VARCHAR},
       coin = #{coin,jdbcType=VARCHAR},
       create_time = #{createTime,jdbcType=TIMESTAMP},
-      update_time = #{updateTime,jdbcType=TIMESTAMP}
+      update_time = now()
     where Id = #{id,jdbcType=VARCHAR}
   </update>
+  <select id="selectByUserAndPassword" parameterType="map" resultMap="BaseResultMap">
+    select
+    <include refid="Base_Column_List"/>
+    from users
+    where username=#{username}
+    and password=#{password}
+
+  </select>
 </mapper>

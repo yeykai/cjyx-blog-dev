@@ -46,6 +46,11 @@
 	</bean>
 	<!--=============================================  -->
 
+
+	<!-- 配置Id生成工具Sid -->
+	<bean id="sid" class="org.n3r.idworker.Sid"></bean>
+	<!--=============================================  -->
+
 	<!-- ===============事务控制的配置 ================-->
 	<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
 		<!--控制住数据源  -->

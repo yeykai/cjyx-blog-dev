@@ -24,6 +24,6 @@
 	src="${APP_PATH }/static/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
 </head>
 <body>
-
+<jsp:forward page="/hello.do"></jsp:forward>
 </body>
 </html>
