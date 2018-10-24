@@ -2,7 +2,7 @@ package com.yeykai.bean;
 
 import java.util.Date;
 
-public class bbsContent {
+public class Bbscontent {
     /** 帖子Id*/
     private String id;
 
@@ -29,6 +29,9 @@ public class bbsContent {
 
     /** 状态*/
     private String status;
+
+    /** 所属专栏*/
+    private String type;
 
     public String getId() {
         return id;
@@ -100,5 +103,13 @@ public class bbsContent {
 
     public void setStatus(String status) {
         this.status = status;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
     }
 }
