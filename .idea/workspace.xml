@@ -7,7 +7,193 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6386e5a6-4eb1-4a71-95a1-9ce55bf9de3a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cjyx-blog-dev.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/SSM_cli/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/dispatcherServlet-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/lib/jackson-core-2.8.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/lib/jackson-databind-2.8.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/case/case.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/catalog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/common/column.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/common/filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/common/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/common/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/common/link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/common/user-nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/jie/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/jie/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/jie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/other/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/other/notice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/other/tips.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/user/activate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/user/forget.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/user/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/user/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/user/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/user/message.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/user/reg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/html/user/set.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/bootstrap-3.3.7-dist/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/js/jquery-1.12.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/json/signin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/css/full.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/css/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/css/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/css/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/css/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/css/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/avatar/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/avatar/00.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/avatar/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/avatar/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/avatar/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/avatar/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/avatar/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/avatar/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/avatar/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/avatar/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/avatar/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/avatar/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/avatar/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/avatar/default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/case.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/fly.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/logo-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/other/1437100018023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/other/study-a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/images/weixin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/css/layui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/css/layui.mobile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/css/modules/code.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/css/modules/laydate/default/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/css/modules/layer/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/css/modules/layer/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/css/modules/layer/default/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/css/modules/layer/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/css/modules/layer/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/css/modules/layer/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/font/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/font/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/font/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/font/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/11.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/12.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/13.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/14.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/15.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/17.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/18.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/19.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/20.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/21.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/22.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/23.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/24.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/25.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/26.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/27.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/28.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/29.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/30.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/31.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/33.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/34.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/35.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/36.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/37.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/38.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/39.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/40.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/41.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/42.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/43.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/44.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/45.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/46.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/47.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/48.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/49.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/50.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/51.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/52.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/53.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/54.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/55.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/56.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/57.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/58.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/59.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/60.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/61.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/62.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/63.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/64.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/65.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/66.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/67.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/68.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/69.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/70.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/71.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/8.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/images/face/9.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/laydate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/layedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/laypage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/laytpl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/lay/modules/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/layui.all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/layui/layui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/mods/case.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/mods/face.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/mods/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/mods/jie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SSM_cli/static/res/mods/user.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,7 +209,7 @@
       <file leaf-file-name="userService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yeykai/service/userService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
+            <state relative-caret-position="76">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
@@ -32,7 +218,7 @@
       <file leaf-file-name="userServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yeykai/service/impl/userServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="152">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -44,10 +230,11 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="48" column="51" lean-forward="true" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
+            <state relative-caret-position="912">
+              <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
             </state>
           </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
     </leaf>
@@ -79,6 +266,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/yeykai/service/userService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yeykai/service/impl/userServiceImpl.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -102,6 +290,11 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="cjyx-blog-dev" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cjyx-blog-dev" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -109,11 +302,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1910" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -121,6 +313,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,37 +341,21 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cjyx-blog-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cjyx-blog-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cjyx-blog-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cjyx-blog-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -316,19 +495,21 @@
       <updated>1540352107464</updated>
       <workItem from="1540352115305" duration="1420000" />
       <workItem from="1540354012145" duration="136000" />
+      <workItem from="1540378622036" duration="304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1556000" />
+    <option name="totallyTimeSpent" value="1860000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32909605" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32997987" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3296636" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -338,27 +519,27 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32909605" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3271795" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3281471" />
       <window_info anchor="right" id="Mybatis datasource" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25285044" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32923076" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21284404" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32909605" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,6 +549,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yeykai/service/userService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yeykai/service/impl/userServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="51" lean-forward="true" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yeykai/service/userService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -386,25 +591,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ArticleMapper.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/bbsContentMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ReplyMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UsersMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-288" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yeykai/service/impl/UserService.java" />
-    <entry file="file://$PROJECT_DIR$/cjyx-blog-dev.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yeykai/controller/UserController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -419,20 +612,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/dbconfig.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yeykai/bean/Article.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="686">
           <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-          <folding>
-            <element signature="e#1249#1266#0" expanded="true" />
-            <element signature="e#1316#1337#0" expanded="true" />
-            <element signature="e#1380#1394#0" expanded="true" />
-            <element signature="e#1441#1459#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -459,7 +643,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yeykai/service/userService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="76">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
@@ -468,7 +652,7 @@
     <entry file="file://$PROJECT_DIR$/mbg.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yeykai/service/impl/userServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="152">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -476,19 +660,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="48" column="51" lean-forward="true" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
+        <state relative-caret-position="-1430">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>cjyx-blog-dev:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cjyx-blog-dev</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: c3p0:c3p0:0.9.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
